@@ -101,8 +101,4 @@ class DocxConversion {
     // }
 }
 
-DocxConversion.readDocx('D:\\Data\\sound\\samples\\text\\ASR Training\\Transcript1.docx').then(res => console.log(res));
-
-
-
-
+module.exports = DocxConversion;
