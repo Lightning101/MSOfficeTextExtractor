@@ -1,0 +1,15 @@
+{
+  "name": "word-text-extractor",
+  "version": "1.0.0",
+  "description": "Extracts text from word documents",
+  "main": "word-text-extractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhinendra De Alwis Rajapakse",
+  "license": "MIT",
+  "dependencies": {
+    "node-stream-zip": "^1.15.0",
+    "striptags": "^3.2.0"
+  }
+}
